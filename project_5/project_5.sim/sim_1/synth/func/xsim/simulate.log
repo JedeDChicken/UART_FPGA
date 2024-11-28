@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Received byte: 0x01 (output) == 0x01 (reference). TEST PASS!
+Received byte: 0x23 (output) == 0x23 (reference). TEST PASS!
+Received byte: 0x45 (output) == 0x45 (reference). TEST PASS!
+Received byte: 0x67 (output) == 0x67 (reference). TEST PASS!
+Received byte: 0xad (output) == 0xad (reference). TEST PASS!
+Received byte: 0xe1 (output) == 0xe1 (reference). TEST PASS!
+Received byte: 0xb0 (output) == 0xb0 (reference). TEST PASS!
+Received byte: 0x55 (output) == 0x55 (reference). TEST PASS!
+$finish called at time : 11719120 ns : File "C:/Users/danie/Desktop/project_5/project_5.srcs/sim_1/imports/Exercise5/tb_uart.v" Line 108
