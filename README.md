@@ -1,3 +1,3 @@
 # CoE168 Exercise
 
-*FPGA, Verilog, Vivado
+*FPGA, Verilog HDL, Vivado
